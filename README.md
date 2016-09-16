@@ -1,5 +1,7 @@
 # chainer-fast-neuralstyle-video
+Simple video wrapper for [chainer fast neuralstyle app](https://github.com/yusuketomoto/chainer-fast-neuralstyle) by yusuketomoto. 
 
+![edtaonisl](edtaonisl.gif?raw=true)
 ## Required Dependencies
 - python 2.7
 - numpy 
